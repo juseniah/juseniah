@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer and data analyst who recently finished a second bachelor's degree in computer science after 20 years in music education. Looking to get my feet wet in my first position in my new career path. I love coding and data analysis, and I can't wait to land my first role!
+I'm a software engineer working in EdTech. I love coding and data analysis.
 
 <!--
 **juseniah/juseniah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
